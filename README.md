@@ -16,4 +16,4 @@
 | Tax |  |  | 4.2 |  |  |
 | Shipping | incl.PCB |  | 26 |  |  |
 | **Total** |  |  | **115.5** |  |  |
-| **Round Off Total** | Dollar rate fluctuation |  | **200** |  |  |
+| **Round Off Total** | Dollar rate fluctuation |  | **120** |  |  |
