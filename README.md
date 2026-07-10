@@ -1,1 +1,19 @@
 # Lora-Tester
+
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| --- | --- | --- | --- | --- | --- |
+| PCB(moq5) | The EEPROM Writer and Reader | 5 | 4 | [Link](https://jlcpcb.com/) | JLCPCB |
+| Raspberry pi zero 2 w | For display and EEPROM | 1 | 19.8 | [Link](https://makerbazar.in/products/raspberry-pi-zero-development-board?variant=49481181757680&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=17426677322&gbraid=0AAAAACLxaAZAdAlrgsOcs3GQwu9U7FzfL&gclid=Cj0KCQjwjb3SBhDgARIsAMKiWzjPPwkDZNPhgg7d7frjodxCyeMHUu6z9B3xtBH47Y2n-kVbVg5weskaAkvXEALw_wcB) | Makerbazer |
+| M5Stack Cardputer Adv | Main Board for for programming | 1 | 29.90 | [Link](https://shop.m5stack.com/products/m5stack-cardputer-adv-version-esp32-s3) | m5stack |
+| Breadboard | For the components to Put in | 1 | 0.4 | [Link](https://robu.in/product/solderless-400-pin-breadboard-normal-quality-without-packing/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWeTfoXFAUr9X7EV-4R8c7_6P&gclid=Cj0KCQjwjb3SBhDgARIsAMKiWzj7IYbO3t4JRnmM30mQe9fltd76h3I4cLqhaRUR9IqlDFEWQv-Amu8aAh-tEALw_wcB) | Robu |
+| 5 Inch Screen HDMI Interface TFT LCD | The main Display | 1 | 26 | [Link](https://robu.in/product/5-inch-touch-screen-hdmi-interface-display-module-tft-lcd-800x480-raspberry-pi-2-model-b-touch-pen/) | Robu |
+| 5mm Led (moq 20) | For the status display | 20 | 0.6 | [Link](https://www.flyrobo.in/pack-25-5-colours-leds-5mm-whiteandgreenandredandyellow-and-blue?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE_BbI7rZnoPWUn6lRyQkupZq&gclid=Cj0KCQjwjb3SBhDgARIsAMKiWzh5pGBP6x1c4SG6jpgIgAfkHUSNeoK_VtmKZNcPOY6G3kRFQBHTL6QaAobUEALw_wcB) | Flyrobo |
+| 40 pin gpio header | For the EEPROM | 4 | 0.5 | [Link](https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWeTfoXFAUr9X7EV-4R8c7_6P&gclid=Cj0KCQjwjb3SBhDgARIsAMKiWzhM2ujRukNeHaKe4-WQ0FSXoJPuGRUneRq1Zqoe6L4hlrBShnfp824aAmNrEALw_wcB) | Robu |
+| Blank USB connector | For the usb connection | 3 | 0.2 | [Link](https://robu.in/product/u221-041n-1wz57-f1-xkb-usb-2-0-female-usb-connectors-rohs/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWeTfoXFAUr9X7EV-4R8c7_6P&gclid=Cj0KCQjwjb3SBhDgARIsAMKiWzicpPTGQCcxBl6k4ZelsWKfxqciUnxToxgo_fav-815Y-hWN1h6weMaAlxMEALw_wcB) | Robu |
+| Power supply | To power the circuit | 1 | 2.4 | [Link](https://robu.in/product/power-supply-adapter-charger-5v-3a-type-c-plug/) | Robu |
+| Micro Hdmi | For the display connection | 1 | 1.5 | [Link](https://robu.in/product/micro-hdmi-to-hdmi-cable/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWdySOPtzm05zwEjKwn0RN97e&gclid=Cj0KCQjwjb3SBhDgARIsAMKiWzgdZAlJOzNI-Gi63zKhhA9l67AL8OWcViJGdZup442bbvVaeeZY4gAaApIAEALw_wcB) | Robu |
+| Tax |  |  | 4.2 |  |  |
+| Shipping | incl.PCB |  | 26 |  |  |
+| **Total** |  |  | **115.5** |  |  |
+| **Round Off Total** | Dollar rate fluctuation |  | **200** |  |  |
