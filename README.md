@@ -1,6 +1,13 @@
-
-
-
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/e4d54c49-e3d9-4bad-b211-e30241413913" width="100%" max-width="800px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 500;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
@@ -64,16 +71,25 @@ In the raspberrypi [website](https://www.raspberrypi.com/documentation/computers
 
 
 
+## Fusion Renders 
+
+<div align="center">
+
+<img width="2940" height="1272" alt="Render 1" src="https://github.com/user-attachments/assets/c92baf08-5424-44f9-b07c-328b90011703" />
+<img width="2940" height="1272" alt="Render 2" src="https://github.com/user-attachments/assets/ca70a76b-6446-43f4-b29a-f592b589797c" />
+<img width="2940" height="1272" alt="Render 3" src="https://github.com/user-attachments/assets/6fbba590-b8ba-47d8-b75a-240f3a64ebd0" />
+<img width="2940" height="1272" alt="Render 4" src="https://github.com/user-attachments/assets/4a7be05b-3d7c-4802-87f5-61c85173a8bd" />
+<img width="2940" height="1272" alt="Render 7" src="https://github.com/user-attachments/assets/03ac7f00-9c02-4720-a7ab-d1df49f64893" />
+<img width="2940" height="1272" alt="Render 6" src="https://github.com/user-attachments/assets/3a27f833-f6be-41fe-a7b1-8f2214216404" />
+<img width="2940" height="1272" alt="Render 5" src="https://github.com/user-attachments/assets/8f774658-0b80-4f33-886e-90e4cc1072b0" />
+
+</div>
 
 
 
-
-
-
-
-
-
-
+<div align="center">
+  <h2> Bill of Materials</h2>
+</div>
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 | --- | --- | --- | --- | --- | --- |
@@ -91,3 +107,13 @@ In the raspberrypi [website](https://www.raspberrypi.com/documentation/computers
 | Shipping | incl.PCB |  | 26 |  |  |
 | **Total** |  |  | **115.5** |  |  |
 | **Round Off Total** | Dollar rate fluctuation |  | **120** |  |  |
+
+
+
+
+## Copyright and License
+Copyright (c) 2026 Sadrita Neogi. All rights reserved.
+
+All files are licensed under the MIT license. For more information, see the [LICENSE](LICENSE).
+
+Project Under Hack Club
