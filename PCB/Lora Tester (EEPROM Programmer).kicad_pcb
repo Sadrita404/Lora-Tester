@@ -180,7 +180,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-000063501e2d")
-		(sheetfile "File: pi-eeprom-programmer.kicad_sch")
+		(sheetfile "File: Lora Tester.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1832,7 +1832,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00006354a5d1")
-		(sheetfile "File: pi-eeprom-programmer.kicad_sch")
+		(sheetfile "File: Lora Tester.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3103,7 +3103,7 @@
 			)
 		)
 		(path "/48feab8d-d9a6-4d93-b3de-184b8ed4f1ca")
-		(sheetfile "File: pi-eeprom-programmer.kicad_sch")
+		(sheetfile "File: Lora Tester.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3626,7 +3626,7 @@
 			)
 		)
 		(path "/f8344b84-80b1-4b0f-845a-bcaf498560a1")
-		(sheetfile "File: pi-eeprom-programmer.kicad_sch")
+		(sheetfile "File: Lora Tester.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
