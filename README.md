@@ -19,17 +19,15 @@
 
 
 ## Overview
-It is an open source Lora Tester it works as programming tool for any electronic components , and we can put that in the breadboard where the breadboards parallel pins are internally connected to the M5 stack adv and the gpio pin so that we can programme any electronic components independently, don't need to connect any wires . Also we can programme EEPROM chips also it has an custom pcb for eeprom Reader and writer through which we can program that also . It is aslo portable and contails additional USB port and 160 gpio pins as output.Also the breadboard is fully custom since each of the header pins of breadboard is programmable to which components we put in.
+It is an open source Lora Tester it works as programming tool for any electronic components , and we can put that in the breadboard where the breadboards parallel pins are internally connected to the M5 stack adv and the gpio pin so that we can programme any electronic components independently, don't need to connect any wires . Also we can programme EEPROM chips also it has an custom pcb for eeprom Reader and writer through which we can program that also . It is also portable and contains additional USB port and 160 gpio pins as output.Also the breadboard is fully custom since each of the header pins of breadboard is programmable to which components we put in.
 
-## Why I chose this project?
+## Why I choose this project?
 
 So behind choosing this project is actually whenever I need to program any electronic components, I found it hard every time I need to open the laptop installing the libraries and I want something dedicated to only programming this chips and this electronic components, so for that I have come up with this design where it is an portable device in which we can program test and see the results of each electronic components individually without connecting with wire we can directly program it using the breadboard since the breadboard is internally connected with the GPIO pins
 
 
-
 ##  How to use this project
 We can use this project for many purpose, but the main purpose would be programming and testing out electronic components with a wide range of variety at once at one place where we can program it and check whether it is fit. Also, we don't need to connect any wire for it.
-
 
 ## Features
 
