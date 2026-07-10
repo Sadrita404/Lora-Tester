@@ -60,6 +60,8 @@ For software I will use linux for this build and it is also open source
 
 In the raspberrypi [website](https://www.raspberrypi.com/documentation/computers/linux_kernel.html) the documentation about downloading and use cases of Linux for raspberrypi is well documented and everything is written there, so please go check it out and read through the documentation. It is well documented and everything is listed there.
 
+### Firmware For the EEPROM Controller - [Firmware](https://github.com/Sadrita404/Lora-Tester/tree/main/Firmware)
+
 
 |  |  |  | Building Process |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
