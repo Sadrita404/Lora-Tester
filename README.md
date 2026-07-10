@@ -41,6 +41,9 @@ We can use this project for many purpose, but the main purpose would be programm
 * Custom 3d printed enclosure
 * Fully Open Source
 
+## For the Custom Breadboard
+So I have tested one at my home where I solder each of the parallel tin pads of the breadboard to an Micro controller and then I directly put the component in the breadboard and I have programme it without connecting it to the micro controller with wires since I have already connected the micro controller to the pads of the breadboard , and on that pad, the components are placed that means they are directly connected to the micro controller. This is my design that I will also implement in this project
+
 <img width="784" height="569" alt="Screenshot 2026-07-10 at 9 29 38 AM" src="https://github.com/user-attachments/assets/9d44f285-a043-43a2-997f-24f0a58ceaab" />
 
 
