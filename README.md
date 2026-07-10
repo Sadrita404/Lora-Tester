@@ -19,7 +19,7 @@
 
 
 ## Overview
-It is an open source Lora Tester it works as programming tool for any electronic components , and we can put that in the breadboard whrere the breadboards parallel pins are internally connected to the M5 stack adv and the gpio pin so that we can programme any electronic components independently, don't need to connect any wires . Also we can programme EEPROM chips also it has an custom pcb for eeprom Reader and writer through which we can program that also . It is aslo portable and contails additional USB port and 160 gpio pins as output.Also the breadboard is fully custom since each of the header pins of breadboard is programmable to which components we put in.
+It is an open source Lora Tester it works as programming tool for any electronic components , and we can put that in the breadboard where the breadboards parallel pins are internally connected to the M5 stack adv and the gpio pin so that we can programme any electronic components independently, don't need to connect any wires . Also we can programme EEPROM chips also it has an custom pcb for eeprom Reader and writer through which we can program that also . It is aslo portable and contails additional USB port and 160 gpio pins as output.Also the breadboard is fully custom since each of the header pins of breadboard is programmable to which components we put in.
 
 ## Why I chose this project?
 
