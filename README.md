@@ -1,3 +1,4 @@
+
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -43,6 +44,18 @@ We can use this project for many purpose, but the main purpose would be programm
 
 ## For the Custom Breadboard
 So I have tested one at my home where I solder each of the parallel tin pads of the breadboard to an Micro controller and then I directly put the component in the breadboard and I have programme it without connecting it to the micro controller with wires since I have already connected the micro controller to the pads of the breadboard , and on that pad, the components are placed that means they are directly connected to the micro controller. This is my design that I will also implement in this project
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/f09c42c3-3462-4349-8d46-dad790b51cf0" width="100%" max-width="800px" alt="Rough Layout For The PCB" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 500;">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <img width="784" height="569" alt="Screenshot 2026-07-10 at 9 29 38 AM" src="https://github.com/user-attachments/assets/9d44f285-a043-43a2-997f-24f0a58ceaab" />
 
